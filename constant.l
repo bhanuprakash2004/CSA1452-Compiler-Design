@@ -1,4 +1,3 @@
-
 digit [0-9]
 %{
 int cons=0;
